@@ -19,7 +19,7 @@ const Hero = () => (
       <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/45 to-black/15 z-10" />
       <img
         src="/images/inageofresurant.png"
-        alt="Kake Da Minar Restaurant"
+        alt="Sagar Family Restaurant"
         className="w-full h-full object-cover animate-slow-zoom"
       />
     </div>
@@ -35,7 +35,7 @@ const Hero = () => (
       <motion.div variants={fadeUp} className="mb-10 flex items-center gap-3">
         <span className="w-10 h-px bg-brand-gold/50" />
         <span className="text-brand-gold text-[10px] font-black uppercase tracking-[0.6em]">
-          Established 2009 &nbsp;&middot;&nbsp; Bhubaneswar
+          Established 2009 &nbsp;&middot;&nbsp; Jokihat
         </span>
         <span className="w-10 h-px bg-brand-gold/50" />
       </motion.div>
@@ -45,9 +45,9 @@ const Hero = () => (
         variants={fadeUp}
         className="text-white/75 text-base md:text-xl font-light leading-relaxed mb-12 max-w-xl"
       >
-        Authentic Punjabi flavors, royalty in every bite.
+        Authentic Delicious Flavors, Unforgettable Moments, royalty in every bite.
         <br className="hidden md:block" />
-        Bhubaneswar's most beloved dining destination.
+        Your Family's Favorite Dining Destination in Jokihat.
       </motion.p>
 
       {/* CTA buttons */}
